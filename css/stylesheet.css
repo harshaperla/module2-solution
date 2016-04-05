@@ -33,13 +33,13 @@ h1, h2{
     margin-left: 600%;
     width: 33%;
     color: white;
-    background: red;
+    background: #AF2B2B;
     border: 1px solid black;
 }
 
 .box:nth-child(3) h2{
-	background: blue;
+	background: #2B2BAF;
 }
 .box:nth-child(4) h2{
-	background: green;
+	background: #2BAF2B;
 }
